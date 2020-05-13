@@ -12,5 +12,5 @@
 1. Clone this project locally
 2. Open index.html in your browser
 
-## Technoligies used 
+## Technologies used 
 * React.js
