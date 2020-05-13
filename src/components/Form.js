@@ -1,4 +1,4 @@
-import React, {useState} from "react"
+import React from "react"
 
 import PersonalData from "./PersonalData"
 import WeWereThinking from "./WeWereThinking";
@@ -22,7 +22,7 @@ function Form(props) {
             <Why />
 
             <OtherIdeas />
-            
+
             <form className="survey-form" action="#" onSubmit={handleSubmit}>
                 <button className="submit">Submit</button>
             </form>

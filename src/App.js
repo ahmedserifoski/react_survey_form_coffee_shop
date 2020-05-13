@@ -14,7 +14,6 @@ function App() {
           <Form />
           
         </div>
-
       </div>
     </div>
   );
