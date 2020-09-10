@@ -21,7 +21,7 @@ class Why extends React.Component {
             <div>
                 <form>
                     
-                    <label htmlFor="why">Why do you drink your coffee?</label> <br/>
+                    <label htmlFor="why" className="why">Why do you drink your coffee?</label> <br/>
                     <input  
                         type="checkbox" 
                         name="stress"

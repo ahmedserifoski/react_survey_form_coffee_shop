@@ -7,7 +7,7 @@ function OtherIdeas(props) {
     return(
         <div>
             <form>
-                    <label htmlFor="text">Some other ideas we didn't think of ?</label> <br/>
+                    <label htmlFor="text" className="otherIdeas">Some other ideas we didn't think of ?</label> <br/>
                     <textarea 
                         
                         className="name"

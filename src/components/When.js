@@ -19,7 +19,7 @@ function When(props) {
     return(
         <div>
             <form>
-                <label htmlFor="when">When do you drink your coffee? </label><br/>
+                <label htmlFor="when" className="when">When do you drink your coffee? </label><br/>
                 <label>
                     <input 
                         type="radio" 
