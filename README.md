@@ -13,4 +13,6 @@
 2. Open index.html in your browser
 
 ## Technologies used 
+* JSX
+* CSS
 * React.js
