@@ -23,15 +23,19 @@ align-items: center;
 flex-direction: column;
 margin: 20px auto;
 width: 90%;
-
 }
 
-
+.allForm {
+  background: rgb(196, 162, 94);
+  width: 100%;
+  padding: 1em;
+  border-radius: 10px;
+}
 
 .main {
 text-align: left;
 background-color: #d7ba7e;
-padding: 2em;
+padding: 1.5em;
 line-height: 1.7em;
 border-radius: 10px;
 display: flex;

@@ -12,7 +12,7 @@ function Form(props) {
       }
 
     return(
-       <div>
+       <div className="allForm">
             <PersonalData />
 
             <WeWereThinking />
